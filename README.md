@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">A Passionate lazy developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tejas Patil</h1>
+<h3 align="center">A Passionate lazy developer from India <br>B.Tech Second Year(Comp) student studying in VIIT,Pune.<br> Turning coffee into Code.</h3>
+<h2 align="center">Talk is cheap, Show me the code.<br>- Linus Torvalds</h2>
 
-- 🔭 I’m currently working on [Flutter Torrent Search](https://github.com/Tejasvp25/flutter-torrent-search)
 
-- 🌱 I’m currently learning **Flutter , Golang**
 
-- 🤝 I’m looking for help with [Go Torrent Scraper API](https://github.com/Tejasvp25/torr_scraper_golang)
+- 🔭 I’m currently working on [Yet Another Paste Bin](https://github.com/Yet-Another-Paste-Bin)
 
-- 💬 Ask me about **Flutter**
+- 🤝 I’m looking for help with [Yet Another Paste Bin](https://github.com/Yet-Another-Paste-Bin)
+
+- 💬 Ask me about **Flutter , Node.js , React JS , Android Devel**
 
 - 📫 How to reach me **tejasvp25@gmail.com**
 
