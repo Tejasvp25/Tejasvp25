@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [Yet Another Paste Bin](https://github.com/Yet-Another-Paste-Bin)
 
-- 💬 Ask me about **Flutter , Node.js , React JS , Android Devel**
+- 💬 Ask me about **Flutter , Node.js , React JS , Android Development**
 
 - 📫 How to reach me **tejasvp25@gmail.com**
 
