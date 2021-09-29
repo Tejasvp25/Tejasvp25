@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Tejas Patil
 
-I am an experimentalist, tech and Open Source enthusiast from India.<br> 
-B.Tech Third Year student studying in VIIT,Pune.<br> 
-Turning coffee into Code.
+- I am an experimentalist, tech and Open Source enthusiast from India
+- B. Tech Third Year student studying in VIIT, Pune
+- Turning coffee into Code
 
 ### Talk is cheap, Show me the code. - Linus Torvalds
 
