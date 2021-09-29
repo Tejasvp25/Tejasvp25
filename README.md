@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Tejas Patil
 
-I am an experimentalist & tech enthusiast from India.<br> 
+I am an experimentalist, tech and Open Source enthusiast from India.<br> 
 B.Tech Third Year student studying in VIIT,Pune.<br> 
 Turning coffee into Code.
 
