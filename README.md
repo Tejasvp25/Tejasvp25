@@ -1,18 +1,39 @@
-<h1 align="center">Hi 👋, I'm Tejas Patil</h1>
-<h3 align="center">A Passionate lazy developer from India <br>B.Tech Second Year(Comp) student studying in VIIT,Pune.<br> Turning coffee into Code.</h3>
-<h2 align="center">Talk is cheap, Show me the code.<br>- Linus Torvalds</h2>
+## Hi 👋, I'm Tejas Patil
+
+I am an experimentalist & tech enthusiast from India.<br> 
+B.Tech Third Year student studying in VIIT,Pune.<br> 
+Turning coffee into Code.
+
+### Talk is cheap, Show me the code. - Linus Torvalds
 
 
 
 - 🔭 I’m currently working on [Yet Another Paste Bin](https://github.com/Yet-Another-Paste-Bin)
-
-- 🤝 I’m looking for help with [Yet Another Paste Bin](https://github.com/Yet-Another-Paste-Bin)
-
-- 💬 Ask me about **Flutter , Node.js , React JS , Android Development**
-
+- 💬 Ask me about **Node.js, React JS, Vue JS, Android Development**
 - 📫 How to reach me **tejasvp25@gmail.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvp25&layout=compact&hide=html" alt="tejasvp25" /></p>
+### Languages
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=0d1117&logo=java&logoColor=007396)](#)
+[![Kotlin Badge](https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&labelColor=0d1117&logo=kotlin&logoColor=7F52FF)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=F0DB4F)](#)
+[![C Badge](https://img.shields.io/badge/-c%20Language-A8B9CC?style=for-the-badge&labelColor=0d1117&logo=c&logoColor=A8B9CC)](#)
+[![C++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=0d1117&logo=cplusplus&logoColor=00599C)](#)
+[![Dart Badge](https://img.shields.io/badge/-dart-0175C2?style=for-the-badge&labelColor=0d1117&logo=dart&logoColor=0175C2)](#)
+[![Golang Badge](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&labelColor=0d1117&logo=go&logoColor=00ADD8)](#)
 
+### Having fun with these Technologies & Tools
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=0d1117&logo=heroku&logoColor=430098)](#)
+[![Vercel Badge](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=FFFFFF)](#)
+[![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=0d1117&logo=netlify&logoColor=00C7B7)](#)
+[![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=0d1117&logo=android&logoColor=3DDC84)](#)
+[![Express Badge](https://img.shields.io/badge/-Expressjs-000000?style=for-the-badge&labelColor=0d1117&logo=express&logoColor=FFFFFF)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=0d1117&logo=node.js&logoColor=3C873A)](#)
+[![Reactjs Badge](https://img.shields.io/badge/-React%20js-61DAFB?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=61DAFB)](#)
+[![Vuejs Badge](https://img.shields.io/badge/-Vuejs-4FC08D?style=for-the-badge&labelColor=0d1117&logo=vue.js&logoColor=4FC08D)](#)
+[![NPM Badge](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=0d1117&logo=npm&logoColor=CB3837)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=0d1117&logo=HTML5&logoColor=E34F26)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=0d1117&logo=CSS3&logoColor=1572B6)](#)
+[![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&labelColor=0d1117&logo=visual-studio-code&logoColor=007ACC)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=2496ED)](#)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasvp25&show_icons=true" alt="tejasvp25" /></p>
 
